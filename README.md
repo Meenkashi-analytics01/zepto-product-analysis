@@ -1,2 +1,21 @@
-# zepto-product-analysis
-# 🛒 Zepto Product Analysis  Analyzed Zepto product data to explore pricing, categories, and trends.  **Tools:** Python, Pandas, NumPy, Matplotlib   **Work:** Data cleaning, EDA, visualization   **Insights:** Category distribution, pricing patterns, product trends    Files: zepto_v2.ipynb, dataset.csv
+# 🛒 Zepto Product Analysis
+
+## 📌 Project Overview
+This project analyzes product data from Zepto to identify trends, pricing patterns, and insights.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+
+## 📊 Key Insights
+- Identified pricing trends
+- Analyzed product categories
+- Found top-performing items
+
+## 📁 Files
+- zepto_product_analysis.ipynb
+- dataset.csv
+
+## 🚀 Conclusion
+This project helps understand product behavior and pricing strategy in quick-commerce platforms.
